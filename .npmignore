@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+coverage/
+node_modules/
+examples/
+test/
+.vscode/
+
+*.ts
+!*.d.ts
